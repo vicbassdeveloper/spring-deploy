@@ -5,6 +5,6 @@ ENV PATH=/usr/java/openjdk-17/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/
 ENV LANG=C.UTF-8
 ENV JAVA_VERSION=17.0.2
 CMD ["jshell"]
-COPY ./target/spring-deploy-1.0.jar app.jar
+COPY ./target/spring-deploy-1.0.jar app.jar # buildkit
 EXPOSE map[8086/tcp:{}]
 ENTRYPOINT ["java", "-jar", "app.jar"]
