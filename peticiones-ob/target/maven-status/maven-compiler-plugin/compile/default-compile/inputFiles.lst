@@ -1,0 +1,6 @@
+/home/alex/Documentos/spring-deploy/peticiones-ob/src/main/java/com/example/peticionesob/controller/LaptopController.java
+/home/alex/Documentos/spring-deploy/peticiones-ob/src/main/java/com/example/peticionesob/controller/HelloController.java
+/home/alex/Documentos/spring-deploy/peticiones-ob/src/main/java/com/example/peticionesob/config/SwaggerConfig.java
+/home/alex/Documentos/spring-deploy/peticiones-ob/src/main/java/com/example/peticionesob/entities/Laptop.java
+/home/alex/Documentos/spring-deploy/peticiones-ob/src/main/java/com/example/peticionesob/PeticionesObApplication.java
+/home/alex/Documentos/spring-deploy/peticiones-ob/src/main/java/com/example/peticionesob/repository/LaptopRepository.java
